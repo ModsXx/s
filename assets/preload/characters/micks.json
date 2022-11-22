@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				161
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				162
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "M Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				159
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "M Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				268,
+				159
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "M Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				161
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "M Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/miki_saddest_day",
+	"position": [
+		-110,
+		10
+	],
+	"healthicon": "mick",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		128,
+		128
+	],
+	"camera_position": [
+		-650,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
